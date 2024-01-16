@@ -54,7 +54,7 @@ The script requires basic libraries from the Python scientific stack: *numpy* (t
 In the SemScale folder, just run the following command:
 
 ``
-python scaler.py path-to-embeddings-file path-to-input-folder output.txt 
+python scaler.py path-to-input-folder path-to-embeddings-file output.txt 
 ``
 
 ## Other functionalities
