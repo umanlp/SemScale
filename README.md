@@ -29,7 +29,7 @@ The expected input is in the one-text-per-file format. Each text file in the ref
 
 ### (Multilingual) Word Embeddings
 
-For an easy set-up, we provide pre-trained FastText embeddings in a single file for the following five language: English, French, German, Italian and Spanish, that can be obtained from [here](https://publications.wim.uni-mannheim.de/informatik/lski/semscale/embs/wiki.big-five.mapped.vec.bz2).
+For an easy set-up, we provide pre-trained FastText embeddings in a single file for the following five language: English, French, German, Italian and Spanish, that can be obtained from [here](http://publications.wim.uni-mannheim.de/informatik/lski/semscale/embs/wiki.big-five.mapped.vec.bz2).
 
 Nonetheless, you can easily use the tool for texts in other languages or with different word embeddings, as long as you:
 
